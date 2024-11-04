@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.snamled25",                              
+  "displayName": "Integer to Led Grid 25 SNAM",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Static Native Array Mono for  MicroBit Led Grid 5x5.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_11_03_IntegerCmdTo25LedsSNAM.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

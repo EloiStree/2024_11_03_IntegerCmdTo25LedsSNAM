@@ -1,2 +1,5 @@
 # 2024_11_03_IntegerCmdTo25LedsSNAM
-Static Native Array Mono version of 2024_11_03_IntegerCmdTo25Leds
+
+Version of 2024_11_03_IntegerCmdTo25Leds design to be use with 16K users game(s)
+
+
